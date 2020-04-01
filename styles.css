@@ -1,0 +1,48 @@
+body  {
+  background-color: #23565399;
+}
+
+
+main  {
+  font-family: cursive;
+  padding: 3%;
+}
+
+h1  {
+  color: darkslategrey;
+  font-family: cursive;
+  vertical-align: top;
+  
+}
+
+li  {
+  color: crimson;
+  display: inline;
+  padding: 6%;
+}
+
+header  {
+  background-color: forestgreen;
+  margin: 40px;
+
+}
+
+.page {
+  background-color: gold;
+}
+
+.p2 {
+  font-display: center;
+  font-weight: 400;
+}
+
+.l3 {
+  display: inline;
+  font-weight: 400;
+
+}
+
+.ball {
+  font-size: 300%;
+  color: lawngreen;
+}
